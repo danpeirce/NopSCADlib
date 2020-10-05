@@ -15,7 +15,7 @@ module axials() {
             ax_res(ax_resistors[1], 68, 5, inch(0.4));
          //   ax_res(res1_4, 68, 5 );
     translate([25.4*0.16, 0.9, 3.5]) rotate([38,0,-90]) 
-        scale([1,0.7,1]) led(LEDs[1], "yellow" );
+        scale([1,0.7,1]) led(LEDs[1], "amber" );
     pcb_grid(pcb, 0,  1)
         rotate(-90)
             pin_header(pin_headers[0], 3, 1, right_angle = true);
