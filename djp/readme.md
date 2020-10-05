@@ -10,7 +10,7 @@ Note work is still needed on this solid object.
   yet worked out the best method to add this.
 * I will add the off board jumper wires.
   
-![](junction-brd.png)
+![](junction-brd.png) ... ![](junction-brd.jpg)
 
 The actual board is in the top left of this photo.
 
